@@ -5,8 +5,10 @@ export default function Home() {
   return (
     <div >
       <h1 >
-        Meu Site oioi
+       Site criado para a disciplina Programação Front-End 
       </h1>
+
+      <h2>Echilin</h2>
     </div>
   );
 }
