@@ -2,7 +2,7 @@ export function Profile(){
     return (
         <img
 
-        scr="/eu.jpg"
+        src="/eu.jpg"
         alt="eu"
 
         />
