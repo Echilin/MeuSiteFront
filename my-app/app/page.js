@@ -10,7 +10,7 @@ export default function Home() {
        Site criado para a disciplina Programação Front-End 
       </h1>
 
-      <h2>Echilin</h2>
+    <Profile />
     </div>
   );
 }
